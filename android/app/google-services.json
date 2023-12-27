@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147198405172",
+    "project_id": "contact-buddy-bff8c",
+    "storage_bucket": "contact-buddy-bff8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147198405172:android:1a09aceb43b529a43d7861",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsA01VnF1jDZnkWzi8y4Mey1EdrgGJRDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
